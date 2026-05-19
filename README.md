@@ -54,6 +54,13 @@ Bilgisayarda Java 17 ve Maven kurulu olmalıdır.
 mvn test
 ```
 
+Başarılı çalıştırma sonucunda testlerin hata almadan tamamlanması beklenir:
+
+```text
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0
+BUILD SUCCESS
+```
+
 ## Test Senaryoları
 
 ### GET Senaryosu
